@@ -1,0 +1,27 @@
+/*Header of the schedule block*/
+.block-header {
+  color: white;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+/*The block object itself*/
+.block {
+  width: 200px;
+  height: 100px;
+  background-color: red;
+  border-radius: 15px;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+}
+
+.row {
+  clear: both;
+}
+
+.header {
+  font-weight: bold;
+  font-size : x-large;
+
+}
